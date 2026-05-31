@@ -1,0 +1,25 @@
+# Smart Barcode Attendance Management System
+# Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Computer Vision & Barcode Scanning
+opencv-python>=4.8.0
+pyzbar>=0.1.9
+
+# Data Processing & Reports
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Charts & Analytics
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Hardware Communication (Future ESP32/Arduino support)
+# pyserial>=3.5  # Uncomment when using ESP32 serial connection
+# requests>=2.31.0  # Uncomment when using ESP32 WiFi connection
